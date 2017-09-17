@@ -1,2 +1,2 @@
 # Twitter-Storm
-Tracking tweets mentioning flu
+Tracking tweets mentioning flu using Apache Storm
